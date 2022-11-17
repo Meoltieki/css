@@ -1,0 +1,96 @@
+body{
+  background-color: black;
+}
+
+.one{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: rgb(200, 223, 223);
+    opacity: 0.5;
+    position: relative;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+  }
+
+  .two{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: rgb(200, 223, 223);
+    opacity: 0.5;
+    position: relative;
+    animation-name: example;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+  }
+  
+  .three{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: rgb(200, 223, 223);
+    opacity: 0.5;
+    position: relative;
+    animation-name: example;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+  }
+  
+
+  .four{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: rgb(200, 223, 223);
+    opacity: 0.5;
+    position: relative;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+  }
+
+  .five{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: rgb(200, 223, 223);
+    opacity: 0.5;
+    position: relative;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+  }
+
+  .six{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: rgb(200, 223, 223);
+    opacity: 0.5;
+    position: relative;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+  }
+  
+  .seven{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: rgb(200, 223, 223);
+    opacity: 0.5;
+    position: relative;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+  }
+  
+
+  .eight{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: rgb(200, 223, 223);
+    opacity: 0.5;
+    position: relative;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+  }
+
